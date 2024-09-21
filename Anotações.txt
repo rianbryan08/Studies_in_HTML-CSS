@@ -1,0 +1,44 @@
+GitHub.com/gustavoguanabara
+
+gustavoguanabara.github.io
+
+HTML - https://www.cursoemvideo.com/curso/html5-css3-modulo1/ - Modulo 1 - Completo
+
+       https://www.youtube.com/playlist?list=PLHz_AreHm4dlUpEXkY1AyVLQGcpSgVF8s - Modulo 2 - 
+
+JS -  https://www.youtube.com/playlist?list=PLHz_AreHm4dlsK3Nr9GVvXCbpQyHQl1o1
+
+Imagens sem direito autorais - https://unsplash.com/pt-br -- https://www.pexels.com/pt-br/
+
+Criação de Icone - https://www.favicon.cc -- https://favicon.io
+
+Anotações de TAGS
+
+&lt;p&gt; e &lt;/p&gt;. <!-- LES THAN / GEREATER THAN -- serve para colocar <> -->
+
+link: Favicon. <!--Para colocar incon-->
+
+<strong>. <!-- tipo um negrito com semantica-->
+
+<em> <!-- Para dar ênfase em uma frase com semantica-->
+
+<mark> <!-- Para marcação de texto -->
+
+<del> <!-- para indicar que ele deve ser lido, mas não considerado -->
+
+<ins> <!-- para dar uma enfase e indicar que ele foi adicionado depois -->
+
+<sup> ou <sub> <!--Para inserir numeros ou letrar como se fosse elevado a tal numero ou elementos químicos -->
+
+<pre> e <code> <!--Para escrever como se fosse codigo-->
+
+<q> <!--Citações simples-->
+
+<blockquote> <!--Para citações completas e melhor-->
+
+<abbr> <!--Mostra o significado da palabra abreviada quando passa o mouse em cima-->
+
+dentro do <a> para inserir link temos o " target= e rel= " 
+<!--targe= _black para abrir uma pagina a mais. targe= _self e ser for sua pagina(sem abrir aba a mais) e o rel= next para proxima pagina--> 
+e download="" e type="" 
+<!--Para fazer Download de algum documento-->

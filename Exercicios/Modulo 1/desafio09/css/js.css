@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    background-color: #000; 
+    text-align: center;
+}
+
+iframe {
+    width: 600px;
+    height: 338px;
+    max-width: 100%;
+}
+header{
+    font-size: 25px;
+}
+
+h1, a {
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a img {
+    width: 50px; 
+    height: auto;
+}
